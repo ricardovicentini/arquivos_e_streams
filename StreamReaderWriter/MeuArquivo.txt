@@ -1,0 +1,8 @@
+TextReader é a classe base abstrata de StreamReader e StringReader, que lê caracteres de streams e strings, respectivamente.
+
+Crie uma instância de TextReader para abrir um arquivo de texto para ler um intervalo especificado de caracteres ou para criar um leitor baseado em um fluxo existente.
+
+Você também pode usar uma instância de TextReader para ler texto de um armazenamento de suporte personalizado usando as mesmas APIs que você usaria para uma string ou um fluxo.
+
+Um novo paragrafo....
+
